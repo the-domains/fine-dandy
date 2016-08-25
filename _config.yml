@@ -1,14 +1,26 @@
-layout_spectrum: 0.37432768754661083
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8740433135535568
 color:
-  brandStrength: 0.020664063515141606
-  lightness: 0.74748520180583
-  saturation: 0.11154334875755012
-  rhythmicContrast: 0.3033647113479674
+  saturation: 0.3530466
+  brandStrength: 0
+  lightness: 0.8548387
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FDFDFD'
+    - '#020204'
+    - '#322E29'
+    - '#7C7971'
+    - '#B5AA8C'
+  rhythmicContrast: 0.3033647
+layout_spectrum: 0.3743276875466108
 name: Fine & Dandy
